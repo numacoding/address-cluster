@@ -1,0 +1,7 @@
+pandas
+google-cloud-bigquery
+scikit-learn
+matplotlib
+seaborn
+google-api-python-client
+db-dtypes
